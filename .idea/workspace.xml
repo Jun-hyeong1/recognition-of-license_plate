@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="932eb98f-01d1-4317-be5f-44528dd57bf9" name="Default Changelist" comment="" />
+    <list default="true" id="932eb98f-01d1-4317-be5f-44528dd57bf9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/practice_by_pjh/Image transformation/pr 1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_by_pjh/Image transformation/pr2.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,5 +33,16 @@
       <updated>1617201283417</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
